@@ -3,6 +3,8 @@
 这里是K8S文档库的翻译与整理，👏🏻您的捐助！
 
 1. [nocalhost](https://k8s-docs.github.io/nocalhost-docs)
+2. [knative](https://k8s-docs.github.io/knative-docs/)
+3. [cert-manager](https://k8s-docs.github.io/cert-manager-docs/)
 
 ## 常用工具文档开发工具 MkDocs
 
